@@ -10,9 +10,9 @@ JavaScript
 
 ## ✔️ I've completed ...
 
-[freeCodeCamp courses](https://www.freecodecamp.org/)
-![shields](https://img.shields.io/badge/javascript-yellow)JavaScript Algorithms and Data Structures
-![shields](https://img.shields.io/badge/html-yellow) ![shields](https://img.shields.io/badge/css-orange) Responsive Web Design 
+[freeCodeCamp courses](https://www.freecodecamp.org/)  
+![shields](https://img.shields.io/badge/javascript-yellow)JavaScript Algorithms and Data Structures  
+![shields](https://img.shields.io/badge/html-orange) ![shields](https://img.shields.io/badge/css-blue) Responsive Web Design 
 
 ## 📅 What I'll learn at Promineo Tech
 
