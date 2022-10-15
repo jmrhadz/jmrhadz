@@ -8,7 +8,7 @@ JavaScript
 
 ![shields](https://img.shields.io/github/last-commit/jmrhadz/week1)
 
-## ✔️ I've copmleted ...
+## ✔️ I've completed ...
 
 [freeCodeCamp courses](https://www.freecodecamp.org/)
 ![shields](https://img.shields.io/badge/javascript-yellow)JavaScript Algorithms and Data Structures
