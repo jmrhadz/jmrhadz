@@ -17,9 +17,9 @@ JavaScript
 ## 📅 What I'll learn at Promineo Tech
 
 ### October
-  CLI, Source Control, Git, JavaScript
+ ✔️ CLI, ✔️ Source Control, ✔️ Git, ✔️ JavaScript
 ### November
-  OOP, DevTools, HTML, CSS
+ ✔️OOP, ✔️ DevTools, ✔️ HTML, CSS
 ### December
   Bootstrap, DOM, JQuery and AJAX
 ### January
