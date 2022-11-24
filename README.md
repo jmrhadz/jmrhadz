@@ -6,7 +6,7 @@ I cut my teeth on C++ in middle school, and even taught block-based programming 
 
 JavaScript
 
-![shields](https://img.shields.io/github/last-commit/jmrhadz/week1)
+![shields](https://img.shields.io/github/last-commit/jmrhadz/week-6-war-game)
 
 ## ✔️ I've completed ...
 
