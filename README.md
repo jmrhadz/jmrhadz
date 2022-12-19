@@ -6,7 +6,7 @@ I cut my teeth on C++ in middle school, and even taught block-based programming 
 
 JavaScript
 
-![shields](https://img.shields.io/github/last-commit/jmrhadz/week-6-war-game)
+![shields](https://img.shields.io/github/last-commit/jmrhadz/week-10-DOM)
 
 ## ✔️ I've completed ...
 
@@ -19,9 +19,9 @@ JavaScript
 ### October
  ✔️ CLI, ✔️ Source Control, ✔️ Git, ✔️ JavaScript
 ### November
- ✔️OOP, ✔️ DevTools, ✔️ HTML, CSS
+ ✔️ OOP, ✔️ DevTools, ✔️ HTML, ✔️ CSS
 ### December
-  Bootstrap, DOM, JQuery and AJAX
+ ✔️ Bootstrap, ✔️ DOM, JQuery and AJAX
 ### January
   React, JSX, REST, Fetch
 ### February
