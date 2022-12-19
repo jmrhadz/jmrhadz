@@ -4,7 +4,7 @@ I cut my teeth on C++ in middle school, and even taught block-based programming 
 
 ## 🌱 I’m currently learning ...
 
-JavaScript
+JavaScript DOM manipulation
 
 ![shields](https://img.shields.io/github/last-commit/jmrhadz/week-10-DOM)
 
