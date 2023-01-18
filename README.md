@@ -4,15 +4,15 @@ I cut my teeth on C++ in middle school, and even taught block-based programming 
 
 ## 🌱 I’m currently learning ...
 
-JavaScript DOM manipulation
+React & JSX
 
-![shields](https://img.shields.io/github/last-commit/jmrhadz/week-10-DOM)
+![shields](https://img.shields.io/github/last-commit/jmrhadz/week-12-CRUD-app)
 
 ## ✔️ I've completed ...
 
 [freeCodeCamp courses](https://www.freecodecamp.org/)  
-![shields](https://img.shields.io/badge/javascript-yellow)JavaScript Algorithms and Data Structures  
-![shields](https://img.shields.io/badge/html-orange) ![shields](https://img.shields.io/badge/css-blue) Responsive Web Design 
+![shields](https://img.shields.io/badge/javascript-yellow)   JavaScript Algorithms and Data Structures  
+![shields](https://img.shields.io/badge/html-orange) ![shields](https://img.shields.io/badge/css-blue)   Responsive Web Design 
 
 ## 📅 What I'll learn at Promineo Tech
 
@@ -21,7 +21,7 @@ JavaScript DOM manipulation
 ### November
  ✔️ OOP, ✔️ DevTools, ✔️ HTML, ✔️ CSS
 ### December
- ✔️ Bootstrap, ✔️ DOM, JQuery and AJAX
+ ✔️ Bootstrap, ✔️ DOM Manipulation, ✔️ JQuery and AJAX
 ### January
   React, JSX, REST, Fetch
 ### February
