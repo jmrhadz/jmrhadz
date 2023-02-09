@@ -4,9 +4,9 @@ I cut my teeth on C++ in middle school, and even taught block-based programming 
 
 ## 🌱 I’m currently learning ...
 
-React & JSX
+React Router & Redux
 
-![shields](https://img.shields.io/github/last-commit/jmrhadz/week-12-CRUD-app)
+![shields](https://img.shields.io/github/last-commit/jmrhadz/Perf-Exhaust-pulse)
 
 ## ✔️ I've completed ...
 
@@ -23,6 +23,9 @@ React & JSX
 ### December
  ✔️ Bootstrap, ✔️ DOM Manipulation, ✔️ JQuery and AJAX
 ### January
-  React, JSX, REST, Fetch
+ ✔️ React, ✔️ JSX, ✔️ REST, ✔️ Fetch
 ### February
-  AWS Deployment
+   React Router, Redux, AWS Deployment
+
+## Coding Challenge Profiles
+![shields](https://www.codewars.com/users/jmrhadz/badges/small)
