@@ -1,6 +1,6 @@
 
 
-I cut my teeth on C++ in middle school, and even taught block-based programming to middle school students in Japan.  Now I'm studying front end development at Promineo Tech, after having made a basic Google Sheets App for my boss' book keeper this past summer. Check me out on [LinkedIn](https://www.linkedin.com/in/johnmarkrhoades/) or my art website, [kateandjohnmark.com](https://www.kateandjohnmark.com/).
+I cut my teeth on C++ in middle school, and even taught block-based programming to middle school students in Japan.  Now I'm a front end developer.  Check me out on [LinkedIn](https://www.linkedin.com/in/johnmarkrhoades/) or my art website, [kateandjohnmark.com](https://www.kateandjohnmark.com/).
 
 ## 🌱 I’m currently learning ...
 
@@ -25,7 +25,7 @@ React Router & Redux
 ### January
  ✔️ React, ✔️ JSX, ✔️ REST, ✔️ Fetch
 ### February
-   React Router, Redux, AWS Deployment
+ ✔️ React Router, Redux, ✔️ AWS Deployment
 
 ## Coding Challenge Profiles
 ![shields](https://www.codewars.com/users/jmrhadz/badges/small)
