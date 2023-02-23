@@ -2,9 +2,9 @@
 
 I cut my teeth on C++ in middle school, and even taught block-based programming to middle school students in Japan.  Now I'm a front end developer.  Check me out on [LinkedIn](https://www.linkedin.com/in/johnmarkrhoades/) or my art website, [kateandjohnmark.com](https://www.kateandjohnmark.com/).
 
-## 🌱 I’m currently learning ...
+## 🌱 I’m currently working with ...
 
-React Router & Redux
+React Router
 
 ![shields](https://img.shields.io/github/last-commit/jmrhadz/Perf-Exhaust-pulse)
 
