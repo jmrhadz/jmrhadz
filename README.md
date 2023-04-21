@@ -14,18 +14,8 @@ React Router
 ![shields](https://img.shields.io/badge/javascript-yellow)   JavaScript Algorithms and Data Structures  
 ![shields](https://img.shields.io/badge/html-orange) ![shields](https://img.shields.io/badge/css-blue)   Responsive Web Design 
 
-## 📅 What I'll learn at Promineo Tech
-
-### October
- ✔️ CLI, ✔️ Source Control, ✔️ Git, ✔️ JavaScript
-### November
- ✔️ OOP, ✔️ DevTools, ✔️ HTML, ✔️ CSS
-### December
- ✔️ Bootstrap, ✔️ DOM Manipulation, ✔️ JQuery and AJAX
-### January
- ✔️ React, ✔️ JSX, ✔️ REST, ✔️ Fetch
-### February
- ✔️ React Router, Redux, ✔️ AWS Deployment
+Ozarks Tech Comunity College via Promineo Tech    
+Frontend Developer Course (CLI, GIT, Source Control, JavaScript, OOP, DevTools, HTML, CSS, Bootstrap, DOM Manipulation, JQuery and AJAX, REACT, JSX, RESTful APIs, Fetch, React Router, Redux, AWS Deployment
 
 ## Coding Challenge Profiles
 ![shields](https://www.codewars.com/users/jmrhadz/badges/small)
