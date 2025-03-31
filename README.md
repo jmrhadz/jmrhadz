@@ -1,4 +1,5 @@
-
+Gitlab Graph as of 3/30/2025
+![Screenshot 2025-03-21 at 3 08 07 PM](https://github.com/user-attachments/assets/895d78cc-015e-44e0-a500-3284789c17d9)
 
 I cut my teeth on C++ in middle school, and even taught block-based programming to middle school students in Japan.  Now I'm a front end developer.  Check me out on [LinkedIn](https://www.linkedin.com/in/johnmarkrhoades/) or my art website, [kateandjohnmark.com](https://www.kateandjohnmark.com/).
 
